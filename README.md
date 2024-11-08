@@ -17,6 +17,7 @@
      ```
 
 3. **View the output**: The program will display its output directly in the terminal or command prompt.
+4. ** Check the picture for the sample output:)
 
 ---
 
